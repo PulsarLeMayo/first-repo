@@ -1,2 +1,1 @@
-# first-repo
-This is for my IT15000 class
+#Hello GitHub, this is my first repository!
